@@ -1,0 +1,8 @@
+{
+  "name": "balfi-signer",
+  "private": true,
+  "version": "1.0.0",
+  "dependencies": {
+    "ethers": "^6.13.0"
+  }
+}
